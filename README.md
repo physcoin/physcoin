@@ -1,3 +1,3 @@
-FooCoin (FOO)
+PhysCoin (PHY)
 
 Blah, blah, blah.
